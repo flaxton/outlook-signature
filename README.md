@@ -4,7 +4,7 @@
 <table width="100%" align="center" border="0">
 <tr>
 <td width="100%" align="center">
-  <img width="237" height="150" src="https://infotechdesign.net/wp-content/uploads/2023/02/Bitwarden_logo.svg-237x150-1.png">
+  <img width="512" height="512" src="https://infotechdesign.net/wp-content/uploads/2023/04/Microsoft_Office-07-512.png">
 </td>
 </tr>
 </table>
