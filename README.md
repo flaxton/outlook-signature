@@ -22,6 +22,14 @@
 
 <img width="600" height="605" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-03-600x605-1.jpg">
 
+## Editing/Creating a Signaure
+* If you have a signature already, click on the one you want to change in "Select Signature to edit"
+* If not, click "New" to create one and this box will appear:
+
+<img width="218" height="124" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-04-218x124-1.jpg">
+
+* Fill in the name of the new signature and click OK.
+
 ## Table of Contents
 * [About this guide](#about)
 * [What is Bitwarden?](#what)
