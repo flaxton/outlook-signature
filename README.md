@@ -10,6 +10,12 @@
 </table>
 </p>
 
+## To Begin
+* Click: File > Options
+* You will see this window:
+
+<img width="600" height="491" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-01-600x491-1.jpg">
+
 
 ## Table of Contents
 * [About this guide](#about)
