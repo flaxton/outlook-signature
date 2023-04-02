@@ -263,7 +263,7 @@ There are other Bitwarden "apps" with training, which you might want to view as 
 
 [Back to Top](#top)
 
-[This guide is online at: https://flaxton.github.io/bitwarden-tutorial/](https://flaxton.github.io/bitwarden-tutorial/)
+[This guide is online at: https://flaxton.github.io/bitwarden-tutorial/](https://flaxton.github.io/outlook-signature/)
 
 ---
 
