@@ -11,11 +11,16 @@
 </p>
 
 ## To Begin
-* Click: File > Options
+* Click: "File" and then "Options"
 * You will see this window:
 
 <img width="600" height="491" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-01-600x491-1.jpg">
 
+* Click: "Mail" in the left sidebar
+* Click: The "Signatures" button on the right
+* You will see something like this:
+
+<img width="600" height="605" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-03-600x605-1.jpg">
 
 ## Table of Contents
 * [About this guide](#about)
