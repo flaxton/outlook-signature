@@ -23,7 +23,8 @@
 <img width="600" height="605" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-03-600x605-1.jpg">
 
 ## Editing/Creating a Signaure
-* If you have a signature already, click on the one you want to change in "Select Signature to edit"
+* First, be sure to select the correct email account to use for the signature, in the "E-mail Account" box.
+* If you have a signature already, click on the name of the one you want to change in "Select Signature to edit"
 * If not, click "New" to create one and this box will appear:
 
 <img width="218" height="124" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-04-218x124-1.jpg">
@@ -37,9 +38,14 @@
 
 ## Insert Picture
 * First, save the picture somewhere on your computer, in a place where it will stay put, like Documents.
+* Click the cursor where you want to insert the picture.
 * Then click the icon on the far right of the toolbar above the "Edit Signature" box:
 
-<img width="" height="" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-05-600x601-1.jpg">
+<img width="600" height="601" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-05-600x601-1.jpg">
+
+* Navigate Explorer/Finder to the folder where the picture is, click on it and click "Insert":
+
+<img width="600" height="422" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-06-600x422-1.jpg">
 
 ## Table of Contents
 * [About this guide](#about)
