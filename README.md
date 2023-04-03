@@ -35,6 +35,7 @@
 
 * Click inside the "Edit Signature" box
 * Type your text. Press Enter/Return to create a new line.
+* Use the toolbar tools like Bold, Italics, etc. to format the text.
 
 ## Insert Picture
 * First, save the picture somewhere on your computer where it will stay put, like Documents.
