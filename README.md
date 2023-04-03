@@ -40,7 +40,7 @@
 ## Insert Picture
 * First, save the picture somewhere on your computer where it will stay put, like Documents.
 
-*(Note - if you move/delete the picture, it will break your signature)*
+*(Note - if you move/delete the picture after adding it to your signature, it will break the picture in your signature)*
 
 * Next, make sure the picture dimensions are acceptable. The width should not exceed 600 pixels, to work on computers and mobile devices.
 * The preferred width would be somewhere around 250 to 300 pixels for most uses.
