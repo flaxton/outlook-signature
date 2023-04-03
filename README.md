@@ -11,7 +11,7 @@
 </p>
 
 ## To Begin
-* Click: "File" and then "Options"
+* In Microsoft Outlook 365, click: "File" and then "Options"
 * You will see this window:
 
 <img width="600" height="491" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-01-600x491-1.jpg">
