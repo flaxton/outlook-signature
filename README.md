@@ -4,7 +4,7 @@
 <table width="100%" align="center" border="0">
 <tr>
 <td width="100%" align="center">
-  <img width="512" height="512" src="https://infotechdesign.net/wp-content/uploads/2023/04/Microsoft_Office-07-512.png">
+  <img width="256" height="256" src="https://infotechdesign.net/wp-content/uploads/2023/04/Microsoft_Office-07-512.png">
 </td>
 </tr>
 </table>
