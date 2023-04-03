@@ -30,6 +30,17 @@
 
 * Fill in the name of the new signature and click OK.
 
+## Edit Signature
+
+* Click inside the "Edit Signature" box
+* Type your text. Press Enter/Return to create a new line.
+
+## Insert Picture
+* First, save the picture somewhere on your computer, in a place where it will stay put, like Documents.
+* Then click the icon on the far right of the toolbar above the "Edit Signature" box:
+
+<img width="" height="" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-05-600x601-1.jpg">
+
 ## Table of Contents
 * [About this guide](#about)
 * [What is Bitwarden?](#what)
