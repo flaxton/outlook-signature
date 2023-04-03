@@ -1,4 +1,4 @@
-# How to set the Signaure in Microsoft Outlook 365 <a name="top">
+# How to set the Signature in Microsoft Outlook 365 <a name="top">
 
 <p align="center">
 <table width="100%" align="center" border="0">
