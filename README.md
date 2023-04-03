@@ -53,11 +53,22 @@
 
 * If the picture is a good size then proceed.
 * If not, use a graphics editor to resize it. Any graphics editor will do if you have one already.
-* GIMP is an open source graphics editor, that is as powerful as the expensive Adobe Photoshop. Get it here:
+* GIMP is a free, open source graphics editor, that is as powerful as the expensive Adobe Photoshop. Get it here:
 
 [GIMP download](https://www.gimp.org/downloads/)
 
-* edit the picture and save it as a jpg.
+* Click the button "Download GIMP xxxxxxxx directly" or "GIMP xxxxxxxx on Microsoft Store".
+* Install GIMP.
+* Open GIMP.
+* The first time running GIMP will take a while to start, as it finds and loads all your plugins fonts. Be patient - it is the first time only.
+* Select "File" and "Open" and locate your picture and open it.
+* Select "Convert" if prompted.
+* Select "Image" and then "Scale Image".
+* Type the new width and press Tab. It will automatically adjust the height to keep the proportions.
+* Click "Scale" to finish resizing.
+* Select "File" and "Export As".
+* Change the file extension to "jpg" if needed, and if you wish, change the file name, and click "Export".
+* Close GIMP.
 
 ## Ready to insert the picture
 
