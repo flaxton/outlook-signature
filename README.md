@@ -52,6 +52,9 @@
 <img width="266" height="866" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-08-266x866-1.jpg">
 
 * If the picture is a good size then proceed.
+
+## Editing the picture using a graphics editor or GIMP
+
 * If not, use a graphics editor to resize it. Any graphics editor will do if you have one already.
 * GIMP is a free, open source graphics editor, that is as powerful as the expensive Adobe Photoshop. Get it here:
 
