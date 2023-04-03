@@ -97,7 +97,7 @@
 
 [Back to Top](#top)
 
-[This guide is online at: https://flaxton.github.io/bitwarden-tutorial/](https://flaxton.github.io/outlook-signature/)
+[This guide is online at: https://flaxton.github.io/outlook-signature/](https://flaxton.github.io/outlook-signature/)
 
 ---
 
