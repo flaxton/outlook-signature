@@ -60,6 +60,7 @@
 * Click the button "Download GIMP xxxxxxxx directly" or "GIMP xxxxxxxx on Microsoft Store".
 * Install GIMP.
 * Open GIMP.
+* Maximize the window if needed.
 * The first time running GIMP will take a while to start, as it finds and loads all your plugins fonts. Be patient - it is the first time only.
 * Select "File" and "Open" and locate your picture and open it.
 * Select "Convert" if prompted.
