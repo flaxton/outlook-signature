@@ -37,7 +37,29 @@
 * Type your text. Press Enter/Return to create a new line.
 
 ## Insert Picture
-* First, save the picture somewhere on your computer, in a place where it will stay put, like Documents.
+* First, save the picture somewhere on your computer where it will stay put, like Documents.
+* Next, make sure the picture dimensions are acceptable. The width should not exceed 600 pixels, to work on computers and mobile devices.
+* The preferred width would be somewhere around 250 to 300 pixels for most uses.
+* Using Explorer/Finder, locate the picture on your computer.
+* If using Windows, right-click the picture and select "Properties" and then the "Details" tab.
+* You'll see the dimensions, widthxheight like 600x300 or some such:
+
+<img width="361" height="487" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-07-361x487-1.jpg">
+
+* If using macOS, select the picture and press cmd+i for Information:
+
+<img width="266" height="866" src="https://infotechdesign.net/wp-content/uploads/2023/04/outlooksig-08-266x866-1.jpg">
+
+* If the picture is a good size then proceed.
+* If not, use a graphics editor to resize it. Any graphics editor will do if you have one already.
+* GIMP is an open source graphics editor, that is as powerful as the expensive Adobe Photoshop. Get it here:
+
+[GIMP download](https://www.gimp.org/downloads/)
+
+* edit the picture and save it as a jpg.
+
+## Ready to insert the picture
+
 * Click the cursor where you want to insert the picture.
 * Then click the icon on the far right of the toolbar above the "Edit Signature" box:
 
